@@ -22,3 +22,4 @@ git tag // its show all your tags
 git tag -a version_number -m "commit_message"
 git show version_number
 git push origin version_number
+git log --pretty=online  // this shown in one line
