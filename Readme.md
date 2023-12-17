@@ -30,3 +30,5 @@ git checkout -d master // for delete
 git merge 
 
 "thank you learning git bye" 
+
+bye bye git and github
