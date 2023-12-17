@@ -27,6 +27,3 @@ git branch
 git switch 
 git checkout -b master // for create new branch
 git checkout -d master // for delete 
-git delete 
-clear
-end from log click "Q"
