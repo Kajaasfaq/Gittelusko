@@ -27,3 +27,6 @@ git branch
 git switch 
 git checkout -b master // for create new branch
 git checkout -d master // for delete 
+git merge 
+
+"thank you learning git bye" 
