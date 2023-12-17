@@ -26,9 +26,13 @@ git log --pretty=online  // this shown in one line
 git branch
 git switch 
 git checkout -b master // for create new branch
+<<<<<<< HEAD
 git checkout -d master // for delete 
 git merge 
 
 "thank you learning git bye" 
 
 bye bye git and github
+=======
+git checkout -d master // for delete 
+>>>>>>> 8318070f026cd727f22ded089642fe9394ee24a2
